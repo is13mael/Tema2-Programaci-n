@@ -1,7 +1,7 @@
 /**
  * Uso de variables que contienen números decimales
  */
-public class Ejemplo02_01_02 {
+public class Variables_con_decimales {
     public static void main(String[] args){
         double x; //Se declaran las variables x e y
         double y; //de tal forma que pueden almacenar decimales.

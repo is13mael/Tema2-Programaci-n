@@ -1,7 +1,7 @@
 /*Uso de variables enteras 
  
 */
-public class Ejemplo02_01_01 {
+public class Variables_enteras {
     public static void main(String[] args) {
         int x; //Declara la variable x como entera
         
